@@ -17,5 +17,7 @@ I am from Russia. I am a student in university **ITMO(IS'27)**
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
+
+![Antoha124 Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hom1c1dq&theme=radical&langs_count=18&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antoha124&theme=solarized_dark)
 
