@@ -14,7 +14,7 @@ I am from Russia. I am a student in university **ITMO(IS'27)**
 </div>
 
 
-![Anton GitHub stats](https://github-readme-stats.vercel.app/api?username=antoha124&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoha124&show_icons=true&theme=radical)
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoha124&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
 
 
