@@ -18,6 +18,4 @@ I am from Russia. I am a student in university **ITMO(IS'27)**
 </div>
 
 
-![Antoha124 Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hom1c1dq&theme=radical&langs_count=18&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antoha124&theme=solarized_dark)
 
